@@ -1,4 +1,8 @@
-### Hi there 👋
+```
+If you can't explain it simply, you don't understand it well enough
+
+-- Albert Einstein
+```
 
 <!--
 **sukvvon/sukvvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
